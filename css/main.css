@@ -10,4 +10,15 @@
         } 
 
 		.image-link {
-			text-decoration: none;}
+			text-decoration: none;
+		}
+
+		.book-title{
+			text-align: center; 
+			margin: 0 0 80px
+		}
+
+		.sperm-whale{
+			display: block; 
+			margin: auto;
+		}
