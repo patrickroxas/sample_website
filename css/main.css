@@ -1,8 +1,13 @@
         .nav-spacing {
             margin: 0 0 0 10px;
-        
-            -left: 10px; text-decoration: none; color: green
+            left: 10px;
+            text-decoration: none;
+            color: green
         }
+        
         .nav-menu {
             text-align: right
         } 
+
+		.image-link {
+			text-decoration: none;}
